@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052914099246",
+    "project_id": "quotegenerator-d3b6b",
+    "storage_bucket": "quotegenerator-d3b6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052914099246:android:1434fb9b34d2011caf2bbf",
+        "android_client_info": {
+          "package_name": "com.example.quote_generator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCadpY6aUFTAYtsVeduLE6TNDlGPzg5Su0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
